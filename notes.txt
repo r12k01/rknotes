@@ -1,0 +1,10 @@
+flutter create -org com.rknotes rknotes
+minSdkVersion 19
+multidex enabeling
+dependencies 
+modejs install
+firebase install
+
+flutterfire configure
+# to fetch projects from firebase
+# or go to the firebase wwebsite to create a new project

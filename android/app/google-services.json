@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34628339727",
+    "project_id": "rknotes-app",
+    "storage_bucket": "rknotes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34628339727:android:a4cf5a85f5dfc2360d7b7a",
+        "android_client_info": {
+          "package_name": "com.noterk.rknotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34628339727-o181g5hn5fml24gve4bo29bimv0rh6l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWKB5Sb5qadswejJQIIZUIFqFxiFQ6Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34628339727-o181g5hn5fml24gve4bo29bimv0rh6l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

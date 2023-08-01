@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>34628339727-9064h1n0etftbtral29i5ukcb20149qh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.34628339727-9064h1n0etftbtral29i5ukcb20149qh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbQ9oB0czzVSrg3DnYFinKKlzIT_4MWC0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>34628339727</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.noterk.rknotesapp</string>
+	<key>PROJECT_ID</key>
+	<string>rknotes-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rknotes-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:34628339727:ios:fcc4f335b4a42ec40d7b7a</string>
+</dict>
+</plist>
