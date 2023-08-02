@@ -8,3 +8,14 @@ firebase install
 flutterfire configure
 # to fetch projects from firebase
 # or go to the firebase wwebsite to create a new project
+
+
+
+# to commit in git
+
+git add --all 
+git status
+git commit -m 'msg'
+git tag 'msg'
+git push 
+git push --tags 
