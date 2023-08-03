@@ -23,6 +23,7 @@ void main() {
         loginRoute: (context) => const LoginView(),
         registerRoute: (context) => const RegisterView(),
         notesRoute: (context) => const NotesView(),
+        verifyEmailRoute: (context) => const VerifyEmailView(),
       },
     ),
   );
@@ -48,7 +49,7 @@ class HomePage extends StatelessWidget {
                 //   return const LoginView();
                 // }
               } else {
-                return const VerfifyEmailView(); // Corrected the typo here
+                return const VerifyEmailView(); // Corrected the typo here
               }
             } else {
               return const LoginView();
