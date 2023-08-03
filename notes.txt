@@ -14,7 +14,7 @@ flutterfire configure
 # to commit in git
 git add --all 
 git status
-git commit -m 'step-7'
-git tag 'step-7'
+git commit -m 'step-8'
+git tag 'step-8'
 git push 
 git push --tags 
